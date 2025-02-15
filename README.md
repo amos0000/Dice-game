@@ -1,1 +1,1 @@
-CLone project and run locally
+Clone project and run locally
